@@ -1,0 +1,26 @@
+# studies.yaml
+# Configuration file for radiology study types
+# Add or remove studies here - changes will be reflected in the app automatically
+
+studies:
+  # CT Studies
+  - CT Chest
+  - CT Abdomen/Pelvis
+  - CT Head/Brain
+  - CT Spine
+  - CT Neck
+  - CT Extremities
+  - CTA (CT Angiography)
+  - CTA Coronary
+  - CTA Pulmonary Embolism
+  
+  # MRI Studies
+  - MRI Brain
+  - MRI Spine
+  - MRI Abdomen
+  - MRI Pelvis
+  - MRI Musculoskeletal
+  - MRI Cardiac
+  - MRI Breast
+  - MRA (MR Angiography)
+  - MRCP (MR Cholangiopancreatography)
