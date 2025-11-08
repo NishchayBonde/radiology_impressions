@@ -3,7 +3,3 @@ openai
 python-docx
 pyyaml
 docx2txt
-# LangChain for Advanced RAG
-langchain
-langchain-openai
-langchain-community
