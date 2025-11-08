@@ -42,7 +42,7 @@ A streamlit application that generates radiology impressions by passing **comple
 pip install -r requirements.txt
 
 # Run the app
-streamlit run radilogy_impressions.py
+streamlit run radiology_impressions.py
 ```
 
 ## 🚀 Quick Start
